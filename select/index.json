@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "桃花笑",
+  "base_artist": "锦零",
+  "createdAt": "2026-01-12T00:58:59.520927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桃花笑-泠鸢",
+      "artist": "泠鸢yousa",
+      "has_synced": true,
+      "path": "select/01_桃花笑-泠鸢_泠鸢yousa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桃花笑",
+      "artist": "锦零",
+      "has_synced": false,
+      "path": "select/02_桃花笑_锦零.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桃花笑",
+      "artist": "锦零",
+      "has_synced": false,
+      "path": "select/pl_01_桃花笑_锦零.txt"
+    }
+  ]
+}
